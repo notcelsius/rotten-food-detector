@@ -1,0 +1,520 @@
+Training with: conv=2, epoch=15, lr=0.0010, momentum=0.90, weight_decay=0.0000, batch_size=16
+  Epoch: 1/15 | train_loss=0.4073 train_acc=81.36% test_acc=87.41% | f1=0.8716
+  Epoch: 2/15 | train_loss=0.2168 train_acc=91.20% test_acc=92.18% | f1=0.9218
+  Epoch: 3/15 | train_loss=0.1675 train_acc=93.33% test_acc=95.44% | f1=0.9542
+  Epoch: 4/15 | train_loss=0.1238 train_acc=95.17% test_acc=95.87% | f1=0.9587
+  Epoch: 5/15 | train_loss=0.0990 train_acc=96.36% test_acc=96.06% | f1=0.9605
+  Epoch: 6/15 | train_loss=0.0776 train_acc=97.00% test_acc=97.82% | f1=0.9782
+  Epoch: 7/15 | train_loss=0.0577 train_acc=97.93% test_acc=98.30% | f1=0.9830
+  Epoch: 8/15 | train_loss=0.0467 train_acc=98.44% test_acc=98.21% | f1=0.9821
+  Epoch: 9/15 | train_loss=0.0372 train_acc=98.67% test_acc=98.65% | f1=0.9864
+  Epoch: 10/15 | train_loss=0.0332 train_acc=98.80% test_acc=98.58% | f1=0.9857
+  Epoch: 11/15 | train_loss=0.0248 train_acc=99.11% test_acc=97.18% | f1=0.9716
+  Epoch: 12/15 | train_loss=0.0228 train_acc=99.24% test_acc=97.66% | f1=0.9765
+  Epoch: 13/15 | train_loss=0.0145 train_acc=99.57% test_acc=98.51% | f1=0.9851
+  Epoch: 14/15 | train_loss=0.0088 train_acc=99.73% test_acc=98.62% | f1=0.9862
+  Epoch: 15/15 | train_loss=0.0038 train_acc=99.89% test_acc=98.62% | f1=0.9862
+---------------------
+Best F1 Score: 0.9864
+Total training time: 0:21:40 (hh:mm:ss) — 1300.62 seconds
+---------------------
+
+Training with: conv=2, epoch=15, lr=0.0010, momentum=0.90, weight_decay=0.0001, batch_size=16
+  Epoch: 1/15 | train_loss=0.4540 train_acc=78.52% test_acc=86.34% | f1=0.8634
+  Epoch: 2/15 | train_loss=0.2894 train_acc=87.43% test_acc=90.67% | f1=0.9062
+  Epoch: 3/15 | train_loss=0.2194 train_acc=90.85% test_acc=93.33% | f1=0.9329
+  Epoch: 4/15 | train_loss=0.1717 train_acc=93.04% test_acc=94.61% | f1=0.9461
+  Epoch: 5/15 | train_loss=0.1327 train_acc=94.71% test_acc=92.78% | f1=0.9278
+  Epoch: 6/15 | train_loss=0.1115 train_acc=95.78% test_acc=96.08% | f1=0.9608
+  Epoch: 7/15 | train_loss=0.0840 train_acc=96.58% test_acc=96.54% | f1=0.9652
+  Epoch: 8/15 | train_loss=0.0643 train_acc=97.57% test_acc=97.00% | f1=0.9698
+  Epoch: 9/15 | train_loss=0.0592 train_acc=97.86% test_acc=96.54% | f1=0.9652
+  Epoch: 10/15 | train_loss=0.0454 train_acc=98.51% test_acc=97.59% | f1=0.9758
+  Epoch: 11/15 | train_loss=0.0352 train_acc=98.84% test_acc=97.66% | f1=0.9765
+  Epoch: 12/15 | train_loss=0.0278 train_acc=98.96% test_acc=97.91% | f1=0.9791
+  Epoch: 13/15 | train_loss=0.0264 train_acc=99.15% test_acc=97.68% | f1=0.9768
+  Epoch: 14/15 | train_loss=0.0241 train_acc=99.25% test_acc=97.98% | f1=0.9797
+  Epoch: 15/15 | train_loss=0.0163 train_acc=99.46% test_acc=98.30% | f1=0.9830
+---------------------
+Best F1 Score: 0.9830
+Total training time: 0:23:52 (hh:mm:ss) — 1432.02 seconds
+---------------------
+
+Training with: conv=2, epoch=15, lr=0.0010, momentum=0.90, weight_decay=0.0010, batch_size=16
+  Epoch: 1/15 | train_loss=0.4687 train_acc=76.81% test_acc=84.36% | f1=0.8432
+  Epoch: 2/15 | train_loss=0.3052 train_acc=86.67% test_acc=86.38% | f1=0.8638
+  Epoch: 3/15 | train_loss=0.1820 train_acc=92.51% test_acc=91.01% | f1=0.9101
+  Epoch: 4/15 | train_loss=0.1267 train_acc=94.86% test_acc=93.92% | f1=0.9392
+  Epoch: 5/15 | train_loss=0.1067 train_acc=96.04% test_acc=96.72% | f1=0.9671
+  Epoch: 6/15 | train_loss=0.0816 train_acc=96.94% test_acc=97.89% | f1=0.9788
+  Epoch: 7/15 | train_loss=0.0691 train_acc=97.44% test_acc=97.89% | f1=0.9789
+  Epoch: 8/15 | train_loss=0.0547 train_acc=98.03% test_acc=98.03% | f1=0.9802
+  Epoch: 9/15 | train_loss=0.0551 train_acc=97.97% test_acc=97.32% | f1=0.9732
+  Epoch: 10/15 | train_loss=0.0340 train_acc=98.75% test_acc=98.46% | f1=0.9846
+  Epoch: 11/15 | train_loss=0.0318 train_acc=98.88% test_acc=96.15% | f1=0.9615
+  Epoch: 12/15 | train_loss=0.0292 train_acc=98.96% test_acc=94.54% | f1=0.9449
+  Epoch: 13/15 | train_loss=0.0212 train_acc=99.21% test_acc=98.46% | f1=0.9846
+  Epoch: 14/15 | train_loss=0.0178 train_acc=99.33% test_acc=98.72% | f1=0.9871
+  Epoch: 15/15 | train_loss=0.0142 train_acc=99.52% test_acc=98.51% | f1=0.9851
+---------------------
+Best F1 Score: 0.9871
+Total training time: 0:23:30 (hh:mm:ss) — 1410.18 seconds
+---------------------
+
+Training with: conv=2, epoch=15, lr=0.0001, momentum=0.90, weight_decay=0.0000, batch_size=16
+  Epoch: 1/15 | train_loss=0.6551 train_acc=64.68% test_acc=73.06% | f1=0.7304
+  Epoch: 2/15 | train_loss=0.4920 train_acc=77.02% test_acc=81.55% | f1=0.8150
+  Epoch: 3/15 | train_loss=0.3520 train_acc=85.77% test_acc=86.84% | f1=0.8681
+  Epoch: 4/15 | train_loss=0.2771 train_acc=88.79% test_acc=89.20% | f1=0.8915
+  Epoch: 5/15 | train_loss=0.2510 train_acc=89.77% test_acc=90.55% | f1=0.9055
+  Epoch: 6/15 | train_loss=0.2347 train_acc=90.59% test_acc=91.52% | f1=0.9151
+  Epoch: 7/15 | train_loss=0.2150 train_acc=91.38% test_acc=90.00% | f1=0.8988
+  Epoch: 8/15 | train_loss=0.1941 train_acc=92.24% test_acc=92.32% | f1=0.9232
+  Epoch: 9/15 | train_loss=0.1795 train_acc=93.02% test_acc=93.05% | f1=0.9304
+  Epoch: 10/15 | train_loss=0.1659 train_acc=93.45% test_acc=92.73% | f1=0.9268
+  Epoch: 11/15 | train_loss=0.1547 train_acc=93.89% test_acc=94.02% | f1=0.9401
+  Epoch: 12/15 | train_loss=0.1467 train_acc=94.27% test_acc=93.58% | f1=0.9358
+  Epoch: 13/15 | train_loss=0.1387 train_acc=94.63% test_acc=94.84% | f1=0.9483
+  Epoch: 14/15 | train_loss=0.1306 train_acc=94.81% test_acc=95.16% | f1=0.9514
+  Epoch: 15/15 | train_loss=0.1211 train_acc=95.56% test_acc=95.58% | f1=0.9556
+---------------------
+Best F1 Score: 0.9556
+Total training time: 0:22:02 (hh:mm:ss) — 1322.29 seconds
+---------------------
+
+Training with: conv=2, epoch=15, lr=0.0001, momentum=0.90, weight_decay=0.0001, batch_size=16
+  Epoch: 1/15 | train_loss=0.6214 train_acc=68.53% test_acc=76.16% | f1=0.7611
+  Epoch: 2/15 | train_loss=0.4916 train_acc=76.86% test_acc=76.59% | f1=0.7637
+  Epoch: 3/15 | train_loss=0.4417 train_acc=79.66% test_acc=81.11% | f1=0.8111
+  Epoch: 4/15 | train_loss=0.4003 train_acc=81.96% test_acc=82.87% | f1=0.8282
+  Epoch: 5/15 | train_loss=0.3590 train_acc=84.17% test_acc=86.31% | f1=0.8630
+  Epoch: 6/15 | train_loss=0.3081 train_acc=86.97% test_acc=87.09% | f1=0.8708
+  Epoch: 7/15 | train_loss=0.2642 train_acc=88.95% test_acc=90.51% | f1=0.9045
+  Epoch: 8/15 | train_loss=0.2222 train_acc=90.88% test_acc=92.76% | f1=0.9274
+  Epoch: 9/15 | train_loss=0.1915 train_acc=92.26% test_acc=93.35% | f1=0.9332
+  Epoch: 10/15 | train_loss=0.1709 train_acc=93.09% test_acc=89.94% | f1=0.8975
+  Epoch: 11/15 | train_loss=0.1571 train_acc=93.76% test_acc=93.03% | f1=0.9303
+  Epoch: 12/15 | train_loss=0.1410 train_acc=94.41% test_acc=94.75% | f1=0.9474
+  Epoch: 13/15 | train_loss=0.1284 train_acc=94.96% test_acc=94.38% | f1=0.9438
+  Epoch: 14/15 | train_loss=0.1129 train_acc=95.54% test_acc=96.61% | f1=0.9660
+  Epoch: 15/15 | train_loss=0.0942 train_acc=96.54% test_acc=95.94% | f1=0.9594
+---------------------
+Best F1 Score: 0.9660
+Total training time: 0:24:04 (hh:mm:ss) — 1444.24 seconds
+---------------------
+
+Training with: conv=2, epoch=15, lr=0.0001, momentum=0.90, weight_decay=0.0010, batch_size=16
+  Epoch: 1/15 | train_loss=0.6576 train_acc=63.96% test_acc=76.41% | f1=0.7620
+  Epoch: 2/15 | train_loss=0.5107 train_acc=77.03% test_acc=78.56% | f1=0.7851
+  Epoch: 3/15 | train_loss=0.4481 train_acc=78.80% test_acc=81.50% | f1=0.8129
+  Epoch: 4/15 | train_loss=0.3969 train_acc=82.67% test_acc=85.47% | f1=0.8544
+  Epoch: 5/15 | train_loss=0.3569 train_acc=85.45% test_acc=86.41% | f1=0.8632
+  Epoch: 6/15 | train_loss=0.3146 train_acc=87.67% test_acc=88.40% | f1=0.8840
+  Epoch: 7/15 | train_loss=0.2778 train_acc=89.05% test_acc=90.53% | f1=0.9051
+  Epoch: 8/15 | train_loss=0.2516 train_acc=90.07% test_acc=91.10% | f1=0.9109
+  Epoch: 9/15 | train_loss=0.2288 train_acc=90.82% test_acc=92.04% | f1=0.9204
+  Epoch: 10/15 | train_loss=0.2134 train_acc=91.20% test_acc=91.47% | f1=0.9141
+  Epoch: 11/15 | train_loss=0.2056 train_acc=91.64% test_acc=92.30% | f1=0.9230
+  Epoch: 12/15 | train_loss=0.1883 train_acc=91.96% test_acc=93.56% | f1=0.9354
+  Epoch: 13/15 | train_loss=0.1770 train_acc=92.74% test_acc=93.19% | f1=0.9319
+  Epoch: 14/15 | train_loss=0.1686 train_acc=93.14% test_acc=93.08% | f1=0.9307
+  Epoch: 15/15 | train_loss=0.1582 train_acc=93.77% test_acc=91.33% | f1=0.9133
+---------------------
+Best F1 Score: 0.9354
+Total training time: 0:23:43 (hh:mm:ss) — 1423.59 seconds
+---------------------
+
+Training with: conv=2, epoch=15, lr=0.0010, momentum=0.90, weight_decay=0.0000, batch_size=64
+  Epoch: 1/15 | train_loss=0.5808 train_acc=69.62% test_acc=77.58% | f1=0.7702
+  Epoch: 2/15 | train_loss=0.4142 train_acc=80.70% test_acc=85.01% | f1=0.8479
+  Epoch: 3/15 | train_loss=0.2826 train_acc=88.53% test_acc=89.61% | f1=0.8948
+  Epoch: 4/15 | train_loss=0.2158 train_acc=91.40% test_acc=93.40% | f1=0.9339
+  Epoch: 5/15 | train_loss=0.1763 train_acc=92.85% test_acc=93.86% | f1=0.9383
+  Epoch: 6/15 | train_loss=0.1334 train_acc=94.83% test_acc=95.32% | f1=0.9532
+  Epoch: 7/15 | train_loss=0.1154 train_acc=95.62% test_acc=96.31% | f1=0.9629
+  Epoch: 8/15 | train_loss=0.0894 train_acc=96.71% test_acc=97.48% | f1=0.9747
+  Epoch: 9/15 | train_loss=0.0770 train_acc=97.19% test_acc=97.34% | f1=0.9733
+  Epoch: 10/15 | train_loss=0.0718 train_acc=97.28% test_acc=96.01% | f1=0.9601
+  Epoch: 11/15 | train_loss=0.0556 train_acc=98.10% test_acc=97.39% | f1=0.9738
+  Epoch: 12/15 | train_loss=0.0556 train_acc=98.04% test_acc=98.30% | f1=0.9830
+  Epoch: 13/15 | train_loss=0.0404 train_acc=98.61% test_acc=98.33% | f1=0.9832
+  Epoch: 14/15 | train_loss=0.0367 train_acc=98.68% test_acc=98.37% | f1=0.9837
+  Epoch: 15/15 | train_loss=0.0403 train_acc=98.49% test_acc=97.82% | f1=0.9782
+---------------------
+Best F1 Score: 0.9837
+Total training time: 0:16:24 (hh:mm:ss) — 984.76 seconds
+---------------------
+
+Training with: conv=2, epoch=15, lr=0.0010, momentum=0.90, weight_decay=0.0001, batch_size=64
+  Epoch: 1/15 | train_loss=0.5634 train_acc=75.28% test_acc=79.92% | f1=0.7984
+  Epoch: 2/15 | train_loss=0.4103 train_acc=82.13% test_acc=86.77% | f1=0.8677
+  Epoch: 3/15 | train_loss=0.3058 train_acc=87.62% test_acc=87.64% | f1=0.8754
+  Epoch: 4/15 | train_loss=0.2369 train_acc=90.67% test_acc=91.43% | f1=0.9135
+  Epoch: 5/15 | train_loss=0.1959 train_acc=92.26% test_acc=92.60% | f1=0.9259
+  Epoch: 6/15 | train_loss=0.1555 train_acc=94.01% test_acc=92.76% | f1=0.9276
+  Epoch: 7/15 | train_loss=0.1312 train_acc=95.08% test_acc=92.76% | f1=0.9268
+  Epoch: 8/15 | train_loss=0.1207 train_acc=95.33% test_acc=95.37% | f1=0.9534
+  Epoch: 9/15 | train_loss=0.1010 train_acc=96.39% test_acc=96.47% | f1=0.9646
+  Epoch: 10/15 | train_loss=0.0885 train_acc=96.71% test_acc=96.97% | f1=0.9697
+  Epoch: 11/15 | train_loss=0.0720 train_acc=97.42% test_acc=97.57% | f1=0.9756
+  Epoch: 12/15 | train_loss=0.0665 train_acc=97.62% test_acc=96.95% | f1=0.9694
+  Epoch: 13/15 | train_loss=0.0511 train_acc=98.30% test_acc=97.59% | f1=0.9758
+  Epoch: 14/15 | train_loss=0.0441 train_acc=98.38% test_acc=98.21% | f1=0.9821
+  Epoch: 15/15 | train_loss=0.0451 train_acc=98.29% test_acc=97.23% | f1=0.9722
+---------------------
+Best F1 Score: 0.9821
+Total training time: 0:16:50 (hh:mm:ss) — 1010.43 seconds
+---------------------
+
+Training with: conv=2, epoch=15, lr=0.0010, momentum=0.90, weight_decay=0.0010, batch_size=64
+  Epoch: 1/15 | train_loss=0.5929 train_acc=67.64% test_acc=79.53% | f1=0.7938
+  Epoch: 2/15 | train_loss=0.3884 train_acc=82.08% test_acc=87.32% | f1=0.8724
+  Epoch: 3/15 | train_loss=0.2968 train_acc=88.05% test_acc=91.56% | f1=0.9155
+  Epoch: 4/15 | train_loss=0.2303 train_acc=90.83% test_acc=91.59% | f1=0.9159
+  Epoch: 5/15 | train_loss=0.1879 train_acc=92.37% test_acc=92.53% | f1=0.9253
+  Epoch: 6/15 | train_loss=0.1719 train_acc=93.36% test_acc=93.95% | f1=0.9394
+  Epoch: 7/15 | train_loss=0.1619 train_acc=93.67% test_acc=93.49% | f1=0.9349
+  Epoch: 8/15 | train_loss=0.1512 train_acc=94.23% test_acc=95.55% | f1=0.9553
+  Epoch: 9/15 | train_loss=0.1253 train_acc=95.40% test_acc=95.14% | f1=0.9514
+  Epoch: 10/15 | train_loss=0.1205 train_acc=95.49% test_acc=96.84% | f1=0.9683
+  Epoch: 11/15 | train_loss=0.1066 train_acc=96.24% test_acc=95.53% | f1=0.9553
+  Epoch: 12/15 | train_loss=0.0919 train_acc=96.83% test_acc=97.36% | f1=0.9736
+---------------------
+Best F1 Score: 0.9736
+Total training time: 0:16:50 (hh:mm:ss) — 1010.43 seconds
+---------------------
+
+Training with: conv=2, epoch=15, lr=0.0001, momentum=0.90, weight_decay=0.0000, batch_size=64
+  Epoch: 1/15 | train_loss=0.6886 train_acc=53.16% test_acc=52.80% | f1=0.3529
+  Epoch: 2/15 | train_loss=0.6653 train_acc=57.96% test_acc=64.63% | f1=0.5923
+  Epoch: 3/15 | train_loss=0.6164 train_acc=72.96% test_acc=74.07% | f1=0.7404
+  Epoch: 4/15 | train_loss=0.5584 train_acc=73.77% test_acc=74.85% | f1=0.7484
+  Epoch: 5/15 | train_loss=0.5277 train_acc=74.25% test_acc=75.40% | f1=0.7539
+  Epoch: 6/15 | train_loss=0.5078 train_acc=75.07% test_acc=75.79% | f1=0.7576
+  Epoch: 7/15 | train_loss=0.4884 train_acc=76.04% test_acc=76.78% | f1=0.7675
+  Epoch: 8/15 | train_loss=0.4707 train_acc=77.10% test_acc=77.58% | f1=0.7757
+  Epoch: 9/15 | train_loss=0.4541 train_acc=78.06% test_acc=78.56% | f1=0.7855
+  Epoch: 10/15 | train_loss=0.4364 train_acc=78.99% test_acc=79.92% | f1=0.7990
+  Epoch: 11/15 | train_loss=0.4194 train_acc=80.37% test_acc=81.80% | f1=0.8170
+  Epoch: 12/15 | train_loss=0.4030 train_acc=81.56% test_acc=82.92% | f1=0.8283
+  Epoch: 13/15 | train_loss=0.3910 train_acc=82.52% test_acc=83.15% | f1=0.8314
+  Epoch: 14/15 | train_loss=0.3795 train_acc=83.45% test_acc=84.57% | f1=0.8452
+  Epoch: 15/15 | train_loss=0.3683 train_acc=84.16% test_acc=85.24% | f1=0.8516
+---------------------
+Best F1 Score: 0.8516
+Total training time: 0:17:07 (hh:mm:ss) — 1027.83 seconds
+---------------------
+
+Training with: conv=2, epoch=15, lr=0.0001, momentum=0.90, weight_decay=0.0001, batch_size=64
+  Epoch: 1/15 | train_loss=0.6904 train_acc=56.89% test_acc=68.23% | f1=0.6431
+  Epoch: 2/15 | train_loss=0.6738 train_acc=63.50% test_acc=68.25% | f1=0.6392
+  Epoch: 3/15 | train_loss=0.6431 train_acc=73.96% test_acc=79.71% | f1=0.7920
+  Epoch: 4/15 | train_loss=0.5933 train_acc=78.21% test_acc=79.23% | f1=0.7903
+  Epoch: 5/15 | train_loss=0.5500 train_acc=77.35% test_acc=78.56% | f1=0.7847
+  Epoch: 6/15 | train_loss=0.5187 train_acc=77.37% test_acc=78.95% | f1=0.7886
+  Epoch: 7/15 | train_loss=0.4920 train_acc=77.92% test_acc=79.60% | f1=0.7949
+  Epoch: 8/15 | train_loss=0.4679 train_acc=78.58% test_acc=80.47% | f1=0.8031
+  Epoch: 9/15 | train_loss=0.4459 train_acc=79.38% test_acc=80.67% | f1=0.8056
+  Epoch: 10/15 | train_loss=0.4250 train_acc=80.20% test_acc=81.91% | f1=0.8174
+  Epoch: 11/15 | train_loss=0.4022 train_acc=81.82% test_acc=83.31% | f1=0.8318
+  Epoch: 12/15 | train_loss=0.3781 train_acc=84.19% test_acc=85.92% | f1=0.8589
+  Epoch: 13/15 | train_loss=0.3537 train_acc=85.95% test_acc=87.23% | f1=0.8722
+  Epoch: 14/15 | train_loss=0.3323 train_acc=87.36% test_acc=87.87% | f1=0.8783
+  Epoch: 15/15 | train_loss=0.3140 train_acc=88.04% test_acc=88.40% | f1=0.8836
+---------------------
+Best F1 Score: 0.8836
+Total training time: 0:16:41 (hh:mm:ss) — 1001.02 seconds
+---------------------
+
+Training with: conv=2, epoch=15, lr=0.0001, momentum=0.90, weight_decay=0.0010, batch_size=64
+  Epoch: 1/15 | train_loss=0.6882 train_acc=55.01% test_acc=52.52% | f1=0.3444
+  Epoch: 2/15 | train_loss=0.6835 train_acc=55.01% test_acc=52.52% | f1=0.3444
+  Epoch: 3/15 | train_loss=0.6749 train_acc=55.06% test_acc=53.07% | f1=0.3571
+  Epoch: 4/15 | train_loss=0.6542 train_acc=60.17% test_acc=66.32% | f1=0.6229
+  Epoch: 5/15 | train_loss=0.6097 train_acc=69.31% test_acc=72.42% | f1=0.7222
+  Epoch: 6/15 | train_loss=0.5637 train_acc=72.21% test_acc=73.09% | f1=0.7306
+  Epoch: 7/15 | train_loss=0.5404 train_acc=72.79% test_acc=72.93% | f1=0.7279
+  Epoch: 8/15 | train_loss=0.5246 train_acc=73.23% test_acc=73.87% | f1=0.7387
+  Epoch: 9/15 | train_loss=0.5120 train_acc=73.98% test_acc=74.60% | f1=0.7460
+  Epoch: 10/15 | train_loss=0.5010 train_acc=74.78% test_acc=74.87% | f1=0.7487
+  Epoch: 11/15 | train_loss=0.4892 train_acc=75.50% test_acc=76.02% | f1=0.7602
+  Epoch: 12/15 | train_loss=0.4786 train_acc=75.88% test_acc=76.43% | f1=0.7643
+  Epoch: 13/15 | train_loss=0.4672 train_acc=76.82% test_acc=77.60% | f1=0.7759
+  Epoch: 14/15 | train_loss=0.4552 train_acc=77.61% test_acc=78.43% | f1=0.7836
+  Epoch: 15/15 | train_loss=0.4417 train_acc=78.44% test_acc=79.44% | f1=0.7941
+---------------------
+Best F1 Score: 0.7941
+Total training time: 0:16:55 (hh:mm:ss) — 1015.36 seconds
+---------------------
+
+Training with: conv=2, epoch=15, lr=0.0003, momentum=0.90, weight_decay=0.0000, batch_size=16
+  Epoch: 1/15 | train_loss=0.5547 train_acc=72.28% test_acc=78.29% | f1=0.7829
+  Epoch: 2/15 | train_loss=0.4046 train_acc=81.17% test_acc=85.12% | f1=0.8512
+  Epoch: 3/15 | train_loss=0.3254 train_acc=86.49% test_acc=87.96% | f1=0.8778
+  Epoch: 4/15 | train_loss=0.2433 train_acc=90.27% test_acc=92.14% | f1=0.9213
+  Epoch: 5/15 | train_loss=0.1789 train_acc=93.00% test_acc=93.19% | f1=0.9312
+  Epoch: 6/15 | train_loss=0.1480 train_acc=94.42% test_acc=95.44% | f1=0.9542
+  Epoch: 7/15 | train_loss=0.1368 train_acc=94.62% test_acc=95.12% | f1=0.9511
+  Epoch: 11/15 | train_loss=0.0643 train_acc=97.62% test_acc=97.25% | f1=0.9724
+  Epoch: 12/15 | train_loss=0.0594 train_acc=97.85% test_acc=95.80% | f1=0.9580
+  Epoch: 13/15 | train_loss=0.0501 train_acc=98.20% test_acc=96.68% | f1=0.9667
+  Epoch: 14/15 | train_loss=0.0422 train_acc=98.54% test_acc=97.68% | f1=0.9768
+  Epoch: 15/15 | train_loss=0.0349 train_acc=98.85% test_acc=98.14% | f1=0.9814
+---------------------
+Best F1 Score: 0.9814
+Total training time: 0:24:06 (hh:mm:ss) — 1446.48 seconds
+---------------------
+
+Training with: conv=2, epoch=15, lr=0.0003, momentum=0.90, weight_decay=0.0010, batch_size=16
+  Epoch: 1/15 | train_loss=0.5895 train_acc=67.69% test_acc=77.12% | f1=0.7712
+  Epoch: 2/15 | train_loss=0.3982 train_acc=81.41% test_acc=85.42% | f1=0.8513
+  Epoch: 3/15 | train_loss=0.2719 train_acc=88.92% test_acc=91.77% | f1=0.9177
+  Epoch: 4/15 | train_loss=0.1994 train_acc=91.78% test_acc=93.42% | f1=0.9339
+  Epoch: 5/15 | train_loss=0.1570 train_acc=93.75% test_acc=92.94% | f1=0.9294
+  Epoch: 6/15 | train_loss=0.1402 train_acc=94.69% test_acc=96.63% | f1=0.9662
+  Epoch: 7/15 | train_loss=0.1106 train_acc=95.86% test_acc=96.24% | f1=0.9624
+  Epoch: 8/15 | train_loss=0.0951 train_acc=96.30% test_acc=94.20% | f1=0.9414
+  Epoch: 9/15 | train_loss=0.0820 train_acc=96.99% test_acc=96.45% | f1=0.9644
+  Epoch: 10/15 | train_loss=0.0732 train_acc=97.31% test_acc=95.74% | f1=0.9574
+  Epoch: 11/15 | train_loss=0.0605 train_acc=97.79% test_acc=97.85% | f1=0.9784
+  Epoch: 12/15 | train_loss=0.0585 train_acc=97.98% test_acc=97.89% | f1=0.9789
+  Epoch: 13/15 | train_loss=0.0452 train_acc=98.35% test_acc=96.88% | f1=0.9688
+  Epoch: 14/15 | train_loss=0.0433 train_acc=98.56% test_acc=98.07% | f1=0.9807
+  Epoch: 15/15 | train_loss=0.0366 train_acc=98.71% test_acc=97.07% | f1=0.9706
+---------------------
+Best F1 Score: 0.9807
+Total training time: 0:23:40 (hh:mm:ss) — 1420.86 seconds
+---------------------
+
+Training with: conv=2, epoch=15, lr=0.0003, momentum=0.90, weight_decay=0.0000, batch_size=64
+  Epoch: 1/15 | train_loss=0.6578 train_acc=63.59% test_acc=75.91% | f1=0.7590
+  Epoch: 2/15 | train_loss=0.5153 train_acc=77.31% test_acc=79.14% | f1=0.7914
+  Epoch: 3/15 | train_loss=0.4395 train_acc=79.82% test_acc=82.42% | f1=0.8242
+  Epoch: 4/15 | train_loss=0.3830 train_acc=83.10% test_acc=85.47% | f1=0.8543
+  Epoch: 5/15 | train_loss=0.3396 train_acc=85.37% test_acc=87.41% | f1=0.8737
+  Epoch: 6/15 | train_loss=0.3101 train_acc=87.11% test_acc=88.15% | f1=0.8806
+  Epoch: 7/15 | train_loss=0.2929 train_acc=88.08% test_acc=88.86% | f1=0.8885
+  Epoch: 8/15 | train_loss=0.2597 train_acc=89.75% test_acc=88.61% | f1=0.8847
+  Epoch: 9/15 | train_loss=0.2575 train_acc=89.73% test_acc=91.72% | f1=0.9171
+  Epoch: 10/15 | train_loss=0.2237 train_acc=91.13% test_acc=89.68% | f1=0.8967
+  Epoch: 11/15 | train_loss=0.2150 train_acc=91.45% test_acc=92.46% | f1=0.9245
+  Epoch: 12/15 | train_loss=0.1996 train_acc=92.23% test_acc=89.91% | f1=0.8978
+  Epoch: 13/15 | train_loss=0.1907 train_acc=92.53% test_acc=92.71% | f1=0.9266
+  Epoch: 14/15 | train_loss=0.1791 train_acc=92.98% test_acc=94.27% | f1=0.9426
+  Epoch: 15/15 | train_loss=0.1635 train_acc=93.57% test_acc=94.77% | f1=0.9475
+---------------------
+Best F1 Score: 0.9475
+Total training time: 0:16:32 (hh:mm:ss) — 992.63 seconds
+---------------------
+
+Training with: conv=2, epoch=15, lr=0.0003, momentum=0.90, weight_decay=0.0001, batch_size=64
+  Epoch: 1/15 | train_loss=0.6877 train_acc=55.38% test_acc=52.52% | f1=0.3444
+  Epoch: 2/15 | train_loss=0.6447 train_acc=62.46% test_acc=73.52% | f1=0.7343
+  Epoch: 3/15 | train_loss=0.5277 train_acc=73.73% test_acc=75.24% | f1=0.7521
+  Epoch: 4/15 | train_loss=0.4812 train_acc=76.01% test_acc=78.86% | f1=0.7882
+  Epoch: 5/15 | train_loss=0.4433 train_acc=78.53% test_acc=79.78% | f1=0.7978
+  Epoch: 6/15 | train_loss=0.4165 train_acc=80.08% test_acc=81.45% | f1=0.8144
+  Epoch: 7/15 | train_loss=0.3905 train_acc=82.14% test_acc=83.40% | f1=0.8333
+  Epoch: 8/15 | train_loss=0.3624 train_acc=84.00% test_acc=85.28% | f1=0.8526
+  Epoch: 9/15 | train_loss=0.3338 train_acc=85.66% test_acc=85.99% | f1=0.8579
+  Epoch: 10/15 | train_loss=0.3068 train_acc=87.29% test_acc=86.70% | f1=0.8669
+  Epoch: 11/15 | train_loss=0.2711 train_acc=89.23% test_acc=90.21% | f1=0.9019
+  Epoch: 12/15 | train_loss=0.2493 train_acc=90.17% test_acc=90.72% | f1=0.9066
+  Epoch: 13/15 | train_loss=0.2235 train_acc=91.45% test_acc=92.46% | f1=0.9245
+  Epoch: 14/15 | train_loss=0.2090 train_acc=92.08% test_acc=92.87% | f1=0.9286
+  Epoch: 15/15 | train_loss=0.1880 train_acc=92.85% test_acc=93.60% | f1=0.9359
+---------------------
+Best F1 Score: 0.9359
+Total training time: 0:17:00 (hh:mm:ss) — 1020.07 seconds
+---------------------
+
+Training with: conv=2, epoch=15, lr=0.0003, momentum=0.90, weight_decay=0.0010, batch_size=64
+  Epoch: 1/15 | train_loss=0.6588 train_acc=73.78% test_acc=75.70% | f1=0.7557
+  Epoch: 2/15 | train_loss=0.5386 train_acc=77.47% test_acc=78.84% | f1=0.7880
+  Epoch: 3/15 | train_loss=0.4727 train_acc=79.25% test_acc=80.58% | f1=0.8023
+  Epoch: 4/15 | train_loss=0.4178 train_acc=80.82% test_acc=84.04% | f1=0.8403
+  Epoch: 5/15 | train_loss=0.3756 train_acc=84.24% test_acc=86.52% | f1=0.8651
+  Epoch: 6/15 | train_loss=0.3471 train_acc=85.52% test_acc=87.87% | f1=0.8785
+  Epoch: 7/15 | train_loss=0.3097 train_acc=87.41% test_acc=89.45% | f1=0.8945
+  Epoch: 8/15 | train_loss=0.2763 train_acc=89.14% test_acc=90.69% | f1=0.9069
+  Epoch: 9/15 | train_loss=0.2466 train_acc=90.07% test_acc=91.22% | f1=0.9115
+  Epoch: 10/15 | train_loss=0.2191 train_acc=91.16% test_acc=90.67% | f1=0.9053
+  Epoch: 11/15 | train_loss=0.1969 train_acc=92.28% test_acc=93.37% | f1=0.9337
+  Epoch: 12/15 | train_loss=0.1733 train_acc=93.31% test_acc=94.75% | f1=0.9474
+  Epoch: 13/15 | train_loss=0.1614 train_acc=93.75% test_acc=95.07% | f1=0.9506
+  Epoch: 14/15 | train_loss=0.1471 train_acc=94.36% test_acc=94.57% | f1=0.9457
+  Epoch: 15/15 | train_loss=0.1425 train_acc=94.35% test_acc=94.96% | f1=0.9493
+---------------------
+Best F1 Score: 0.9506
+Total training time: 0:16:55 (hh:mm:ss) — 1015.24 seconds
+---------------------
+
+Training with: conv=2, epoch=15, lr=0.0003, momentum=0.90, weight_decay=0.0000, batch_size=16
+  Epoch: 1/15 | train_loss=0.5547 train_acc=72.28% test_acc=78.29% | f1=0.7829
+  Epoch: 2/15 | train_loss=0.4046 train_acc=81.17% test_acc=85.12% | f1=0.8512
+  Epoch: 3/15 | train_loss=0.3254 train_acc=86.49% test_acc=87.96% | f1=0.8778
+  Epoch: 4/15 | train_loss=0.2433 train_acc=90.27% test_acc=92.14% | f1=0.9213
+  Epoch: 5/15 | train_loss=0.1789 train_acc=93.00% test_acc=93.19% | f1=0.9312
+  Epoch: 6/15 | train_loss=0.1480 train_acc=94.42% test_acc=95.44% | f1=0.9542
+  Epoch: 7/15 | train_loss=0.1368 train_acc=94.62% test_acc=95.12% | f1=0.9511
+  Epoch: 11/15 | train_loss=0.0643 train_acc=97.62% test_acc=97.25% | f1=0.9724
+  Epoch: 12/15 | train_loss=0.0594 train_acc=97.85% test_acc=95.80% | f1=0.9580
+  Epoch: 13/15 | train_loss=0.0501 train_acc=98.20% test_acc=96.68% | f1=0.9667
+  Epoch: 14/15 | train_loss=0.0422 train_acc=98.54% test_acc=97.68% | f1=0.9768
+  Epoch: 15/15 | train_loss=0.0349 train_acc=98.85% test_acc=98.14% | f1=0.9814
+---------------------
+Best F1 Score: 0.9814
+Total training time: 0:24:06 (hh:mm:ss) — 1446.48 seconds
+---------------------
+
+Training with: conv=2, epoch=15, lr=0.0003, momentum=0.90, weight_decay=0.0010, batch_size=16
+  Epoch: 1/15 | train_loss=0.5895 train_acc=67.69% test_acc=77.12% | f1=0.7712
+  Epoch: 2/15 | train_loss=0.3982 train_acc=81.41% test_acc=85.42% | f1=0.8513
+  Epoch: 3/15 | train_loss=0.2719 train_acc=88.92% test_acc=91.77% | f1=0.9177
+  Epoch: 4/15 | train_loss=0.1994 train_acc=91.78% test_acc=93.42% | f1=0.9339
+  Epoch: 5/15 | train_loss=0.1570 train_acc=93.75% test_acc=92.94% | f1=0.9294
+  Epoch: 6/15 | train_loss=0.1402 train_acc=94.69% test_acc=96.63% | f1=0.9662
+  Epoch: 7/15 | train_loss=0.1106 train_acc=95.86% test_acc=96.24% | f1=0.9624
+  Epoch: 8/15 | train_loss=0.0951 train_acc=96.30% test_acc=94.20% | f1=0.9414
+  Epoch: 9/15 | train_loss=0.0820 train_acc=96.99% test_acc=96.45% | f1=0.9644
+  Epoch: 10/15 | train_loss=0.0732 train_acc=97.31% test_acc=95.74% | f1=0.9574
+  Epoch: 11/15 | train_loss=0.0605 train_acc=97.79% test_acc=97.85% | f1=0.9784
+  Epoch: 12/15 | train_loss=0.0585 train_acc=97.98% test_acc=97.89% | f1=0.9789
+  Epoch: 13/15 | train_loss=0.0452 train_acc=98.35% test_acc=96.88% | f1=0.9688
+  Epoch: 14/15 | train_loss=0.0433 train_acc=98.56% test_acc=98.07% | f1=0.9807
+  Epoch: 15/15 | train_loss=0.0366 train_acc=98.71% test_acc=97.07% | f1=0.9706
+---------------------
+Best F1 Score: 0.9807
+Total training time: 0:23:40 (hh:mm:ss) — 1420.86 seconds
+---------------------
+
+Training with: conv=2, epoch=15, lr=0.0003, momentum=0.90, weight_decay=0.0000, batch_size=64
+  Epoch: 1/15 | train_loss=0.6578 train_acc=63.59% test_acc=75.91% | f1=0.7590
+  Epoch: 2/15 | train_loss=0.5153 train_acc=77.31% test_acc=79.14% | f1=0.7914
+  Epoch: 3/15 | train_loss=0.4395 train_acc=79.82% test_acc=82.42% | f1=0.8242
+  Epoch: 4/15 | train_loss=0.3830 train_acc=83.10% test_acc=85.47% | f1=0.8543
+  Epoch: 5/15 | train_loss=0.3396 train_acc=85.37% test_acc=87.41% | f1=0.8737
+  Epoch: 6/15 | train_loss=0.3101 train_acc=87.11% test_acc=88.15% | f1=0.8806
+  Epoch: 7/15 | train_loss=0.2929 train_acc=88.08% test_acc=88.86% | f1=0.8885
+  Epoch: 8/15 | train_loss=0.2597 train_acc=89.75% test_acc=88.61% | f1=0.8847
+  Epoch: 9/15 | train_loss=0.2575 train_acc=89.73% test_acc=91.72% | f1=0.9171
+  Epoch: 10/15 | train_loss=0.2237 train_acc=91.13% test_acc=89.68% | f1=0.8967
+  Epoch: 11/15 | train_loss=0.2150 train_acc=91.45% test_acc=92.46% | f1=0.9245
+  Epoch: 12/15 | train_loss=0.1996 train_acc=92.23% test_acc=89.91% | f1=0.8978
+  Epoch: 13/15 | train_loss=0.1907 train_acc=92.53% test_acc=92.71% | f1=0.9266
+  Epoch: 14/15 | train_loss=0.1791 train_acc=92.98% test_acc=94.27% | f1=0.9426
+  Epoch: 15/15 | train_loss=0.1635 train_acc=93.57% test_acc=94.77% | f1=0.9475
+---------------------
+Best F1 Score: 0.9475
+Total training time: 0:16:32 (hh:mm:ss) — 992.63 seconds
+---------------------
+
+Training with: conv=2, epoch=15, lr=0.0003, momentum=0.90, weight_decay=0.0001, batch_size=64
+7 seconds
+---------------------
+
+Training with: conv=2, epoch=15, lr=0.0003, momentum=0.90, weight_decay=0.0010, batch_size=64
+  Epoch: 1/15 | train_loss=0.6588 train_acc=73.78% test_acc=75.70% | f1=0.7557
+  Epoch: 2/15 | train_loss=0.5386 train_acc=77.47% test_acc=78.84% | f1=0.7880
+  Epoch: 3/15 | train_loss=0.4727 train_acc=79.25% test_acc=80.58% | f1=0.8023
+  Epoch: 4/15 | train_loss=0.4178 train_acc=80.82% test_acc=84.04% | f1=0.8403
+  Epoch: 5/15 | train_loss=0.3756 train_acc=84.24% test_acc=86.52% | f1=0.8651
+  Epoch: 6/15 | train_loss=0.3471 train_acc=85.52% test_acc=87.87% | f1=0.8785
+  Epoch: 7/15 | train_loss=0.3097 train_acc=87.41% test_acc=89.45% | f1=0.8945
+  Epoch: 8/15 | train_loss=0.2763 train_acc=89.14% test_acc=90.69% | f1=0.9069
+  Epoch: 9/15 | train_loss=0.2466 train_acc=90.07% test_acc=91.22% | f1=0.9115
+  Epoch: 10/15 | train_loss=0.2191 train_acc=91.16% test_acc=90.67% | f1=0.9053
+  Epoch: 11/15 | train_loss=0.1969 train_acc=92.28% test_acc=93.37% | f1=0.9337
+  Epoch: 12/15 | train_loss=0.1733 train_acc=93.31% test_acc=94.75% | f1=0.9474
+  Epoch: 13/15 | train_loss=0.1614 train_acc=93.75% test_acc=95.07% | f1=0.9506
+  Epoch: 14/15 | train_loss=0.1471 train_acc=94.36% test_acc=94.57% | f1=0.9457
+  Epoch: 15/15 | train_loss=0.1425 train_acc=94.35% test_acc=94.96% | f1=0.9493
+---------------------
+Best F1 Score: 0.9506
+Total training time: 0:16:55 (hh:mm:ss) — 1015.24 seconds
+---------------------
+
+Training with: conv=2, epoch=15, lr=0.0010, momentum=0.90, weight_decay=0.0000, batch_size=32
+  Epoch: 1/15 | train_loss=0.5362 train_acc=71.11% test_acc=80.10% | f1=0.8000
+  Epoch: 2/15 | train_loss=0.3786 train_acc=83.79% test_acc=83.65% | f1=0.8360
+  Epoch: 3/15 | train_loss=0.3045 train_acc=87.48% test_acc=90.00% | f1=0.8998
+  Epoch: 4/15 | train_loss=0.2259 train_acc=90.58% test_acc=92.55% | f1=0.9252
+  Epoch: 5/15 | train_loss=0.1723 train_acc=93.19% test_acc=94.86% | f1=0.9484
+  Epoch: 6/15 | train_loss=0.1374 train_acc=94.55% test_acc=94.89% | f1=0.9487
+  Epoch: 7/15 | train_loss=0.1204 train_acc=95.37% test_acc=96.13% | f1=0.9611
+  Epoch: 8/15 | train_loss=0.1031 train_acc=95.90% test_acc=94.93% | f1=0.9493
+  Epoch: 9/15 | train_loss=0.0823 train_acc=96.92% test_acc=97.78% | f1=0.9777
+  Epoch: 10/15 | train_loss=0.0677 train_acc=97.47% test_acc=96.56% | f1=0.9654
+  Epoch: 11/15 | train_loss=0.0634 train_acc=97.71% test_acc=97.87% | f1=0.9786
+  Epoch: 12/15 | train_loss=0.0475 train_acc=98.15% test_acc=96.15% | f1=0.9613
+  Epoch: 13/15 | train_loss=0.0346 train_acc=98.86% test_acc=97.98% | f1=0.9798
+  Epoch: 14/15 | train_loss=0.0373 train_acc=98.75% test_acc=97.82% | f1=0.9782
+  Epoch: 15/15 | train_loss=0.0251 train_acc=99.12% test_acc=98.12% | f1=0.9812
+---------------------
+Best F1 Score: 0.9812
+Total training time: 0:18:44 (hh:mm:ss) — 1124.03 seconds
+---------------------
+
+Training with: conv=2, epoch=15, lr=0.0010, momentum=0.90, weight_decay=0.0001, batch_size=32
+  Epoch: 1/15 | train_loss=0.5160 train_acc=73.76% test_acc=86.91% | f1=0.8689
+  Epoch: 2/15 | train_loss=0.3058 train_acc=86.40% test_acc=89.78% | f1=0.8974
+  Epoch: 3/15 | train_loss=0.2294 train_acc=89.70% test_acc=85.56% | f1=0.8545
+  Epoch: 4/15 | train_loss=0.1830 train_acc=92.25% test_acc=94.48% | f1=0.9447
+  Epoch: 5/15 | train_loss=0.1500 train_acc=94.04% test_acc=94.13% | f1=0.9411
+  Epoch: 6/15 | train_loss=0.1202 train_acc=95.22% test_acc=96.03% | f1=0.9602
+  Epoch: 7/15 | train_loss=0.0943 train_acc=96.43% test_acc=96.49% | f1=0.9648
+  Epoch: 8/15 | train_loss=0.0792 train_acc=97.01% test_acc=95.99% | f1=0.9599
+  Epoch: 9/15 | train_loss=0.0565 train_acc=97.98% test_acc=96.45% | f1=0.9643
+  Epoch: 10/15 | train_loss=0.0494 train_acc=98.20% test_acc=98.07% | f1=0.9807
+  Epoch: 11/15 | train_loss=0.0360 train_acc=98.67% test_acc=96.03% | f1=0.9603
+  Epoch: 12/15 | train_loss=0.0350 train_acc=98.74% test_acc=97.25% | f1=0.9725
+  Epoch: 13/15 | train_loss=0.0290 train_acc=98.91% test_acc=98.42% | f1=0.9841
+  Epoch: 14/15 | train_loss=0.0258 train_acc=99.21% test_acc=96.58% | f1=0.9656
+  Epoch: 15/15 | train_loss=0.0334 train_acc=98.95% test_acc=98.88% | f1=0.9887
+---------------------
+Best F1 Score: 0.9887
+Total training time: 0:19:08 (hh:mm:ss) — 1148.26 seconds
+---------------------
+
+Training with: conv=2, epoch=15, lr=0.0010, momentum=0.90, weight_decay=0.0010, batch_size=32
+  Epoch: 1/15 | train_loss=0.4992 train_acc=74.53% test_acc=84.46% | f1=0.8406
+  Epoch: 2/15 | train_loss=0.2798 train_acc=88.30% test_acc=90.99% | f1=0.9090
+  Epoch: 3/15 | train_loss=0.2062 train_acc=91.77% test_acc=94.61% | f1=0.9460
+  Epoch: 4/15 | train_loss=0.1714 train_acc=93.57% test_acc=92.66% | f1=0.9258
+  Epoch: 5/15 | train_loss=0.1523 train_acc=94.14% test_acc=94.98% | f1=0.9498
+  Epoch: 6/15 | train_loss=0.1278 train_acc=95.34% test_acc=96.42% | f1=0.9641
+  Epoch: 7/15 | train_loss=0.1134 train_acc=95.75% test_acc=95.60% | f1=0.9558
+  Epoch: 8/15 | train_loss=0.0999 train_acc=96.55% test_acc=95.14% | f1=0.9514
+  Epoch: 9/15 | train_loss=0.0791 train_acc=97.37% test_acc=97.48% | f1=0.9747
+  Epoch: 10/15 | train_loss=0.0741 train_acc=97.40% test_acc=96.29% | f1=0.9628
+  Epoch: 11/15 | train_loss=0.0628 train_acc=97.86% test_acc=97.89% | f1=0.9789
+  Epoch: 12/15 | train_loss=0.0505 train_acc=98.25% test_acc=97.87% | f1=0.9786
+  Epoch: 13/15 | train_loss=0.0511 train_acc=98.30% test_acc=94.64% | f1=0.9458
+  Epoch: 14/15 | train_loss=0.0352 train_acc=98.97% test_acc=98.26% | f1=0.9825
+  Epoch: 15/15 | train_loss=0.0267 train_acc=99.24% test_acc=97.20% | f1=0.9719
+---------------------
+Best F1 Score: 0.9825
+Total training time: 0:19:22 (hh:mm:ss) — 1162.99 seconds
+---------------------
+
+Training with: conv=3, epoch=15, lr=0.0010, momentum=0.90, weight_decay=0.0001, batch_size=32
+  Epoch: 1/15 | train_loss=0.6325 train_acc=60.44% test_acc=75.63% | f1=0.7558
+  Epoch: 2/15 | train_loss=0.4325 train_acc=80.00% test_acc=87.87% | f1=0.8785
+  Epoch: 3/15 | train_loss=0.2698 train_acc=88.42% test_acc=90.60% | f1=0.9060
+  Epoch: 4/15 | train_loss=0.2047 train_acc=91.95% test_acc=93.67% | f1=0.9367
+  Epoch: 5/15 | train_loss=0.1653 train_acc=93.60% test_acc=95.09% | f1=0.9508
+  Epoch: 6/15 | train_loss=0.1491 train_acc=94.44% test_acc=93.44% | f1=0.9340
+  Epoch: 7/15 | train_loss=0.1328 train_acc=95.08% test_acc=95.09% | f1=0.9509
+  Epoch: 8/15 | train_loss=0.1187 train_acc=95.51% test_acc=95.78% | f1=0.9577
+  Epoch: 9/15 | train_loss=0.1119 train_acc=95.90% test_acc=96.33% | f1=0.9632
+  Epoch: 10/15 | train_loss=0.0973 train_acc=96.67% test_acc=96.63% | f1=0.9662
+  Epoch: 11/15 | train_loss=0.0852 train_acc=96.95% test_acc=97.09% | f1=0.9708
+  Epoch: 12/15 | train_loss=0.0810 train_acc=97.14% test_acc=96.84% | f1=0.9683
+  Epoch: 13/15 | train_loss=0.0705 train_acc=97.68% test_acc=97.20% | f1=0.9719
+  Epoch: 14/15 | train_loss=0.0594 train_acc=98.05% test_acc=97.78% | f1=0.9777
+  Epoch: 15/15 | train_loss=0.0517 train_acc=98.23% test_acc=96.40% | f1=0.9640
+Finished Training
+---------------------
+Best F1 Score: 0.9777
+Total training time: 0:25:12 (hh:mm:ss) — 1512.78 seconds
+---------------------
